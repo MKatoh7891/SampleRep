@@ -1,0 +1,2 @@
+this is a sample1.txt file edited using VIM editor.
+VIM came from vi editor which I have learned about 40 years ago.
